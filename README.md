@@ -15,6 +15,8 @@ Original testsets: combined from FLORES, WMT and NTREX (see paper for exact deta
 3. Final question: original sentence ends with a question mark (modification is to delete)
 4. No final punct: original sentence does not end with any punctuation (modification is to insert full stop, exclamation mark, question mark and random character)
 
+Link to testsets coming soon.
+
 Directory structure with self-explanatory filenames:
 
 ```
